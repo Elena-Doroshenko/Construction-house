@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\bin\Debug\DZ_5_Сonstruction.exe.config
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\bin\Debug\DZ_5_Сonstruction.exe
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\bin\Debug\DZ_5_Сonstruction.pdb
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\obj\Debug\DZ_5_Сonstruction.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\obj\Debug\DZ_5_Сonstruction.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\obj\Debug\DZ_5_Сonstruction.exe
+C:\Users\Lena\source\repos\DZ_5_Сonstruction\DZ_5_Сonstruction\obj\Debug\DZ_5_Сonstruction.pdb
